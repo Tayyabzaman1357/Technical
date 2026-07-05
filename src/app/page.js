@@ -1,7 +1,11 @@
-import Navbar from '@/components/Navbar';
-import Hero from '@/components/Hero';
-import Services from '@/components/Services';
-import Contact from '@/components/Contact';
+import Contact from "./components/Contact";
+import Hero from "./components/Hero";
+import MobileStickyCall from "./components/MobileStickyCall";
+
+import Navbar from "./components/Navbar";
+import Products from "./components/Products";
+import Services from "./components/Services";
+
 
 export default function Home() {
   return (
@@ -9,8 +13,9 @@ export default function Home() {
       <Navbar />
       <Hero />
       <Services />
-      {/* Aap yahan Products section bhi add kar sakte hain future me */}
+     <Products />
       <Contact />
+      <MobileStickyCall />
     </main>
   );
 }
