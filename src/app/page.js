@@ -3,8 +3,9 @@ import Hero from "./components/Hero";
 import MobileStickyCall from "./components/MobileStickyCall";
 
 import Navbar from "./components/Navbar";
-import Products from "./components/Products";
+
 import Services from "./components/Services";
+import UstadProfile from "./components/UstadProfile";
 
 
 export default function Home() {
@@ -13,7 +14,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <Services />
-     <Products />
+    <UstadProfile />
       <Contact />
       <MobileStickyCall />
     </main>

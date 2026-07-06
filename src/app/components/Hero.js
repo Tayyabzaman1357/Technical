@@ -35,7 +35,7 @@ export default function Hero() {
             </div>
             <div>
               <h3 className="font-bold text-base sm:mt-3">Certified Mechanics</h3>
-              <p className="text-xs text-blue-100/80 mt-1">Saddar aur Nazimabad market ke trained technicians.</p>
+              <p className="text-xs text-blue-100/80 mt-1">Karachi ke professional technicians.</p>
             </div>
           </div>
           
@@ -54,8 +54,8 @@ export default function Hero() {
               <ShieldCheck className="h-8 w-8 text-green-600" />
             </div>
             <div>
-              <h3 className="font-black text-base sm:text-lg text-slate-900 leading-tight">15-Days Work Warranty</h3>
-              <p className="text-xs text-slate-600 mt-0.5">Agar 15 din ke andar dobara masla aaye, toh service bilkul Free hogi.</p>
+              <h3 className="font-black text-base sm:text-lg text-slate-900 leading-tight">7-Days Work Warranty</h3>
+              <p className="text-xs text-slate-600 mt-0.5">Agar 7 din ke andar dobara masla aaye, toh service bilkul Free hogi.</p>
             </div>
           </div>
         </div>
