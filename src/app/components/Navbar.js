@@ -17,7 +17,7 @@ export default function Navbar() {
             </div>
             <div className="flex flex-col">
               <span className="font-black text-lg sm:text-xl text-slate-900 tracking-tight leading-none">
-                Pak Cool <span className="text-blue-600">Services</span>
+                Hussain Cool <span className="text-blue-600">Services</span>
               </span>
               <span className="text-[9px] text-emerald-600 font-bold tracking-widest uppercase mt-0.5 flex items-center gap-0.5">
                 <ShieldCheck className="h-2.5 w-2.5 fill-emerald-100" /> Certified Shop
